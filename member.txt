@@ -1,0 +1,12 @@
+EVERYONE: attended meetings, participated in decision making process, agreed on visual design of website and split work in advance
+
+Dian: set up firebase query testing environment, wrote one query, tested and modified 
+all queries, contributed to write up and compiled/formatted all necessary submission materials
+
+Saloni: Completed minimum web application product, wrote four/five queries, contributed to write up ("new assumptions")
+
+Tanisha: ER diagram redesign, created database + manual entries for basic query testing, contributed to write up (“Changes we’ve made to the database”)
+
+Charles: Generated database and wrote README.txt for database
+
+Michelle: Suggested new tech stack and showed us previous work using said tech stack, worked with charles for generating database + database write up 
